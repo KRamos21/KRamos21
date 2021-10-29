@@ -5,7 +5,7 @@
 ## About me:
 I've graduated from law school in 2015 and have been working as a lawyer ever since. Nevertheless, technology is an area that has always aroused my curiosity and over time I've realized that it was more in line with my interests and aspirations. Thus, in early 2021, I decided to start a career transition and study programming harder.
 
-Right now, I'm finishing a full-stack development course at Digital House and taking programming classes at University.  
+Right now, I'm finishing a full-stack web development course at Digital House and taking programming classes at University.  
 
 ## Technologies
 
